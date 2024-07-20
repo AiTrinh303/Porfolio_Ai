@@ -1,26 +1,26 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "E-Commerce App",
+    "imageSrc": "projects/JoJoStore.png",
+    "description": "This is a Full-Stack Project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node", "Tailwind", "MongoDB"],
+    "demo": "https://jojo-store.onrender.com/",
+    "source": "https://github.com/AiTrinh303/JOJO-STORE"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Admin Dashboard",
+    "imageSrc": "projects/AdminDashboard.png",
+    "description": "This is a responsive admin Dashboard UI, which features a collapsible sidebar, icons, chart,...",
+    "skills": ["React", "Express", "Node", "Sass", "Typescript"],
+    "demo": "https://admin-dashboard-8epn.onrender.com/",
+    "source": "https://github.com/AiTrinh303/Admin_Dashboard"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Pokedex",
+    "imageSrc": "projects/Pokedex.png",
+    "description": "This is a funny project for Pokemon fans.",
+    "skills": ["React", "Typescript", "Tailwind", "API"],
+    "demo": "https://pokedex-ai.onrender.com/",
+    "source": "https://github.com/AiTrinh303/Pokedex-Ai"
   }
 ]
