@@ -22,5 +22,13 @@
     "skills": ["React", "Typescript", "Tailwind", "API"],
     "demo": "https://pokedex-ai.onrender.com/",
     "source": "https://github.com/AiTrinh303/Pokedex-Ai"
+  },
+  {
+    "title": "ChatGBT clone",
+    "imageSrc": "projects/Chatgbt_clone.png",
+    "description": "Full-Stack ChatGBT App with React, Express, Node, MongoDB and Google Gemini AI",
+    "skills": ["React", "Express", "MongoDB", "API AI"],
+    "demo": "",
+    "source": "https://github.com/AiTrinh303/ChatGBT-clone"
   }
 ]
