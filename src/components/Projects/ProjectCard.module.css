@@ -8,16 +8,24 @@
   box-shadow: 0 16px 14px 0 #04152d;
   padding: 18px 24px;
   max-width: 345px;
-  min-height: 600px;
+  min-height: 640px;
+  box-sizing: border-box;
 }
 
 .image {
+  width: 100%; 
+  max-width: 300px; 
+  height: 200px; 
+  object-fit: cover; 
   margin-bottom: 26px;
+  border-radius: 8px; 
 }
 
 .title {
   font-size: 25px;
   font-weight: 700;
+  text-align: center; 
+  margin-bottom: 12px; 
 }
 
 .description {
@@ -34,6 +42,7 @@
   flex-wrap: wrap;
   gap: 6px;
   list-style: none;
+  
 }
 
 .skill {
